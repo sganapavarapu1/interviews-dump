@@ -19,7 +19,7 @@ History
 
 2018 Aug: FB: did not get short listed for on-campus panel interview
 
-2018 Oct: Google: fell in exec-committe review, went back to pool for team matching
+2018 Oct: Google: fell short in last, but one step i.e. in exec-committee (comp-committee) review, went back to pool for team matching
 
 2019 Jan: Apple: offer made, but did not accept offer
 
@@ -35,3 +35,9 @@ other than those companies on my linkedin profile and those listed above, only o
 
 If I ever leave Salesforce in future:
 Companies to try: Google, LinkedIn, Microsoft or any hot startup
+
+Best companies that resonated with my heart, where I enjoyed working... 
+# 1 TIVO
+# 2 TVWORKS (Comcast)
+# 3 PERSONALMD.com
+# 4 SONIC SYSTEMS
