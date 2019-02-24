@@ -44,7 +44,7 @@ Best companies that resonated with my heart, where I enjoyed working...
 
 3 PERSONALMD.com
 
-4 SONIC SYSTEMS
+4 SONIC SYSTEMS (now, DELL SONIC WALL)
 
 Worst company that I resented due to degree of politics in everything... Cisco
 
