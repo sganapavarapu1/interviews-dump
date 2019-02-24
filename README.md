@@ -37,6 +37,7 @@ If I ever leave Salesforce in future:
 Companies to try: Google (again), LinkedIn, Microsoft or any hot startup
 
 Best companies that resonated with my heart, where I enjoyed working... 
+
 1 TIVO
 
 2 TVWORKS (Comcast)
