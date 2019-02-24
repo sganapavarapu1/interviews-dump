@@ -34,10 +34,16 @@ other than those companies on my linkedin profile and those listed above, only o
 2008: Visto (Good Technology): offer made, took it, joined, but left in 3 weeks - because team was just goofying and not working at all ... spending 1/2 day at ping-pong and foosball and rest at cafe... working hardly for 1 hr. Was offered 10% retention bonus if I stay for one year, but refused and returned the sign-on bonus as well.
 
 If I ever leave Salesforce in future:
-Companies to try: Google, LinkedIn, Microsoft or any hot startup
+Companies to try: Google (again), LinkedIn, Microsoft or any hot startup
 
 Best companies that resonated with my heart, where I enjoyed working... 
-# 1 TIVO
-# 2 TVWORKS (Comcast)
-# 3 PERSONALMD.com
-# 4 SONIC SYSTEMS
+1 TIVO
+
+2 TVWORKS (Comcast)
+
+3 PERSONALMD.com
+
+4 SONIC SYSTEMS
+
+Worst company that I resented due to degree of politics in everything... Cisco
+
