@@ -1,6 +1,17 @@
 # interviews-dump
 recent interviews questions and may be some projects for home work style questions
 
+- Look at interview questions docx file
+
+- some projects included 
+
+
+
+
+History
+
+-----------------------
+
 2017 Aug: Amazon: offer made, but did not accept offer 
 
 2017 Aug: eBay: accepted offer
