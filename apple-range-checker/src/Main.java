@@ -38,7 +38,7 @@ public class Main {
         deleteRange( tracker, 63, 113, true );
         deleteRange( tracker, 59, 118, true );
 
-        // TODO: uncomment line 46 and fix the failing test
+        // TODO: uncomment line 45 and fix the failing test
         // NOTE: for reproducing failing case in line 46, it's required to comment lines 36-39
         // WARN: Test result shows PASS, but data is not cleaned properly between range 57-148
         // 57-98 is cleaned up, but nodes 110-118, 111-114 needs deletion & 115-120 => 119-120
