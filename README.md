@@ -2,17 +2,24 @@
 recent interviews questions and may be some projects for home work style questions
 
 2017 Aug: Amazon: offer made, but did not accept offer 
+
 2017 Aug: eBay: accepted offer
+
 2018 Aug: FB: did not get short listed for on-campus panel interview
+
 2018 Oct: Google: fell in exec-committe review, went back to pool for team matching
+
 2019 Jan: Apple: offer made, but did not accept offer
+
 2019 Jan: Salesforce: accepted offer
 
-past,
+other than those companies on my linkedin profile and those listed above, only other interviews attended are: 
+
 2009: Motorola: offer made, but did not accept offer
 
-pending to try in future
-LinkedIn, Microsoft
+2008: Minerva TV Networks: offer made, but did not accept offer
+
+2008: Visto (Good Technology): offer made, took it, joined, but left in 3 weeks - because team was just goofying and not working at all ... spending 1/2 day at ping-pong and foosball and rest at cafe... working hardly for 1 hr. Was offered 10% if I stay for one year, but refused and returned sign-on bonus as well to exit.
 
 If I ever leave Salesforce in future:
-companies to try: Google, LinkedIn, Microsoft or any hot startup
+Companies to try: Google, LinkedIn, Microsoft or any hot startup
